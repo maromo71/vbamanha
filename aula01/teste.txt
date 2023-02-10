@@ -1,0 +1,13 @@
+ O volume na unidade C ‚ Acer
+ O N£mero de S‚rie do Volume ‚ 9211-75E1
+
+ Pasta de C:\vbamanha\aula01
+
+10/02/2023  07:49    <DIR>          .
+10/02/2023  07:48    <DIR>          ..
+10/02/2023  07:49                 0 teste.txt
+               1 arquivo(s)              0 bytes
+
+     Total de Arquivos na Lista:
+               1 arquivo(s)              0 bytes
+               2 pasta(s)   32.698.224.640 bytes dispon¡veis
